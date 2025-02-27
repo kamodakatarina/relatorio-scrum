@@ -1,0 +1,21 @@
+Relatório sobre SCRUM: Funções e Importância
+
+O SCRUM é uma metodologia ágil que tem como objetivo a entrega contínua e incremental de valor no desenvolvimento de software. Baseado em ciclos chamados sprints, o SCRUM permite que equipes trabalhem de forma mais flexível e eficiente, adaptando-se a mudanças e gerenciando prioridades de maneira eficaz. Para que o SCRUM seja bem-sucedido, é necessário que haja uma estrutura bem definida de papéis e responsabilidades. Entre os principais papéis, destacam-se o Scrum Master, o Product Owner (PO), o Líder da Equipe de TI e a Equipe de Tecnologia.
+
+Scrum Master
+O Scrum Master é o facilitador do processo SCRUM. Ele é responsável por garantir que a metodologia seja seguida corretamente, removendo obstáculos que possam surgir durante o desenvolvimento. O Scrum Master também promove a melhoria contínua, ajuda a equipe a entender os valores e princípios do SCRUM e assegura que todos os membros da equipe tenham as condições necessárias para entregar o trabalho de forma eficiente.
+
+Product Owner (PO)
+O Product Owner (PO) tem a responsabilidade de representar os stakeholders e o cliente. Ele gerencia o Product Backlog, priorizando as funcionalidades de acordo com o valor de negócio e a demanda dos usuários. O PO garante que a equipe de desenvolvimento tenha uma visão clara do que precisa ser feito e assegura que as prioridades estejam alinhadas com as metas do produto. Sua função é garantir que o trabalho entregue pela equipe agregue o maior valor possível ao produto.
+
+Líder da Equipe de TI
+O Líder da Equipe de TI não é um papel formal dentro do SCRUM, mas é importante para orientar a equipe técnica. Ele garante que as melhores práticas sejam seguidas, acompanha o desempenho técnico da equipe e assegura que os recursos necessários estejam disponíveis. O líder pode atuar como mentor para os membros da equipe e também ajudar na resolução de problemas técnicos complexos.
+
+Equipe de Tecnologia
+A Equipe de Tecnologia, ou Equipe de Desenvolvimento, é composta por profissionais com habilidades diversas que trabalham juntos para transformar os requisitos definidos pelo PO em um produto funcional. Eles são responsáveis pela implementação das funcionalidades do Product Backlog, criando incrementos de produto ao longo de cada sprint. A equipe é auto-organizada e tem autonomia para decidir como realizar o trabalho da melhor maneira possível.
+
+Importância da Integração dos Papéis
+A colaboração entre o Scrum Master, o Product Owner, o Líder da Equipe de TI e a Equipe de Tecnologia é essencial para o sucesso do SCRUM. O Scrum Master ajuda a manter a equipe focada e livre de impedimentos, enquanto o PO garante que a equipe esteja sempre trabalhando nas prioridades certas. O líder técnico apoia a equipe em questões tecnológicas, enquanto a equipe de desenvolvimento transforma as ideias e prioridades em funcionalidades tangíveis. Essa integração garante que o processo seja ágil, eficiente e capaz de gerar valor continuamente.
+
+Conclusão
+O SCRUM é uma metodologia poderosa quando aplicada corretamente, e a definição clara dos papéis é fundamental para seu sucesso. O Scrum Master, o Product Owner, o Líder da Equipe de TI e a Equipe de Tecnologia desempenham funções distintas, mas complementares, que garantem que o trabalho seja realizado de maneira eficiente, com alta qualidade e focado no valor ao cliente. Em conjunto, esses papéis formam a base para equipes ágeis e bem-sucedidas.
